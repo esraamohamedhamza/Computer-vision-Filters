@@ -31,7 +31,7 @@ The effect of each filter of the filters used on the original image and clarify 
 
 # library 
 
-'' '
+'' '' 
 
 pip install opencv
 
@@ -39,4 +39,4 @@ pip install numby
 
 pip install matplotlib 
 
-'' '
+'' '' 
