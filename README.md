@@ -16,19 +16,17 @@ I use gusain filter, blur filter, kernel 2D filter, sobel filter and invert filt
 
 
 #result
-
 The effect of each filter of the filters used on the original image and clarify the difference between them and the work of each one of the filters. 
-! [/main/out.png]
+! [this is the output](/out.png) 
 
 
 
 
 #library 
-
-'''
+' ' '
 pip install opencv
 
 pip install numby
 
 pip install matplotlib 
-'''
+' ' '
