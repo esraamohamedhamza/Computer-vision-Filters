@@ -12,29 +12,31 @@ I use gusain filter, blur filter, kernel 2D filter, sobel filter and invert filt
 
 - Sobel filter: is used in image processing and computer vision, particularly within edge detection algorithms where it creates an image emphasising edges.
 
-- Inverse Filter: Inverse Filtering is the process of receiving the input of a system from its output. It is the simplest approach to restore the original image once the degradation function is known [^note].
+- Inverse Filter: Inverse Filtering is the process of receiving the input of a system from its output. It is the simplest approach to restore the original image once the degradation function is known.
 
 
 # result
 
 The effect of each filter of the filters used on the original image and clarify the difference between them and the work of each one of the filters. 
-! [this is the output](/out.png) 
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="/out.png">
   <source media="(prefers-color-scheme: light)" srcset="/out.png">
   <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="/out.png">
 </picture>
-[^note].
+
 
 
 
 # library 
 
 '' '
+
 pip install opencv
 
 pip install numby
 
 pip install matplotlib 
+
 '' '
